@@ -10,7 +10,7 @@
     "deploy": "wrangler publish"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "3.16.0",
+    "@cloudflare/workers-types": "3.19.0",
     "@types/jest": "29.4.1",
     "@typescript-eslint/eslint-plugin": "5.36.2",
     "@typescript-eslint/parser": "5.36.2",
